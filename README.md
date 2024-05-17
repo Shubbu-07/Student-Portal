@@ -43,13 +43,13 @@ To run the Student Portal project locally, follow these steps:
 ![Screenshot 2024-05-14 131355](https://github.com/Shubbu-07/Student-Portal/assets/95517382/c4a9b6e5-3428-4b8a-8506-e0d4a3c12c7d)
 *Home page* 
 
-![Screenshot 2024-05-14 131418](https://github.com/Shubbu-07/Student-Portal/assets/95517382/313ddb98-778e-4f56-bf13-5708064f4904)
+![Screenshot 2024-05-17 141310](https://github.com/Shubbu-07/Student-Portal/assets/95517382/92e87d45-b28d-4175-bc57-e8a24c12ceaf)
 *List page*
 
-![Screenshot 2024-05-14 131436](https://github.com/Shubbu-07/Student-Portal/assets/95517382/a7e080c1-9356-4637-9ee2-30a6d38ffbdf)
+![Screenshot 2024-05-17 141320](https://github.com/Shubbu-07/Student-Portal/assets/95517382/85904c79-4ac0-4b0f-9855-2140dd767c8c)
 *Edit page*
 
-![Screenshot 2024-05-14 131447](https://github.com/Shubbu-07/Student-Portal/assets/95517382/f1baa3fe-dc7e-45d6-b913-23eec2d4cd0e)
+![Screenshot 2024-05-17 141333](https://github.com/Shubbu-07/Student-Portal/assets/95517382/c72ee7cf-80ac-4ee2-b8a1-e126dfa55709)
 *Add page*
 
 ## Contributing
